@@ -1,0 +1,27 @@
+Name: Ryan Taylor
+
+Contact Information:
+
+Email: ryan.taylor@example.com
+Phone: (555) 555-5555
+Summary:
+Motivated individual with a background in retail management seeking a career change to software development.
+
+Education:
+
+High School Diploma
+Graduated June 2010
+Work Experience:
+
+Store Manager
+ABC Retail Store, 2012 - Present
+Managed daily operations, supervised staff, and ensured customer satisfaction
+Projects:
+
+Implemented new inventory management system
+Trained new employees on company procedures
+Skills:
+
+Leadership abilities
+Customer service skills
+Inventory management

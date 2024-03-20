@@ -1,0 +1,42 @@
+Job Listing Detail
+Requisition ID: 385551
+Work Area: Software-Design and Development
+Expected Travel: 0 - 10%
+Career Status: Graduate
+Employment Type: Regular Full Time
+Career Level: T1
+Hiring Manager: Rinku Dubey 
+Recruiter Name: Sruthi P
+Additional Locations:
+ 
+
+SUMMARY:
+
+Non ABAP Assembly Services team handles DevOps, assembly/build & release, code signing and shipment of artifacts to SAP customers on all shipment models like on-premise, on-cloud, on-device. 
+
+We enable various development teams on CI/CD pipelines to ensure best in class DevOps and development practices across SAP. 
+
+
+ROLE:
+• You will involved in end to end life cycle of applications (Design, Development, Testing and deployment of inhouse solutions).
+
+• On the technical front your work will include CI/CD pipeline setup for the product you will work upon.  
+
+• Hands on coding, configuration management, cloud native infrastructure, learn and work on the most sought after hyperscalers in the market today. Tech stack includes (but not limited to): Python, Go, Java, Spring Boot, NodeJS, MSSQL, PostGreSQL, docker, Kubernetes, Jenkins and development on .NET Framework.
+
+• An open opportunity to improve/enhance solutions with a plethora of open source state of the art tools available today.
+
+ 
+
+REQUIREMENT:
+• BE/BTech/MCA from a reputed college with a minimum aggregate of 70%.
+
+• Know-how in full-stack technologies (HTML, Vue.Js, Javascript, NodeJS, Python, Go, PostGreSQL or MSSQL, Cloud Native Development), with sound knowledge in Object Oriented Programming Principles is desirable.
+
+• Exposure to application development is highly recommended.
+
+• Ability to work with the team in the design and development aspects for the product.
+
+• Goal-oriented team worker with good communication skills and ability to work independently, and eagerness to learn and explore new topics.
+
+• High sense of responsibility and customer focus.

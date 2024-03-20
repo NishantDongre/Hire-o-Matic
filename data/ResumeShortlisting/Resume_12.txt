@@ -1,0 +1,28 @@
+Name: Emily Nguyen
+
+Contact Information:
+
+Email: emily.nguyen@example.com
+Phone: (555) 987-6543
+Summary:
+Tech enthusiast with a background in software development. Interested in exploring new technologies and frameworks to enhance skills and stay updated with industry trends.
+
+Education:
+
+Bachelor of Science in Computer Engineering
+University of ABC, Graduated May 2020
+Work Experience:
+
+Software Engineering Intern
+ABC Software Solutions, Summer 2019
+Assisted in developing frontend components using Angular and backend APIs using Node.js
+Conducted research on emerging technologies and presented findings to the team
+Projects:
+
+Developed a prototype mobile app using React Native for a class project
+Created a basic blockchain application using Ethereum for learning purposes
+Skills:
+
+Proficient in JavaScript and Node.js
+Basic knowledge of Angular, React Native, and Ethereum
+Experience with Agile development methodologies

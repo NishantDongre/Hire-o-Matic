@@ -1,0 +1,28 @@
+Name: Rachel Kim
+
+Contact Information:
+
+Email: rachel.kim@example.com
+Phone: (555) 555-5555
+Summary:
+Enthusiastic software developer with exposure to new technologies. Seeking opportunities to further develop skills and gain hands-on experience in cutting-edge technologies.
+
+Education:
+
+Bachelor of Science in Computer Science
+University of XYZ, Graduated May 2021
+Work Experience:
+
+Software Engineering Intern
+ABC Tech Solutions, Summer 2020
+Assisted in developing frontend components using React.js and backend APIs using Node.js
+Participated in daily stand-up meetings and sprint planning sessions
+Projects:
+
+Developed a basic mobile app using Flutter for personal use
+Created a simple web application using Vue.js for a class project
+Skills:
+
+Proficient in JavaScript and Node.js
+Basic knowledge of React.js, Vue.js, and Flutter
+Experience with version control systems like Git
